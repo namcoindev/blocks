@@ -1,4 +1,4 @@
-var api = 'http://138.68.31.205:11778';
+var api = 'https://blocks.namcoin.org';
 var donationAddress = "";
 var blockTargetInterval = 30;
 var coinUnits = 1000000;
