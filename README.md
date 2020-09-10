@@ -1,2 +1,2 @@
-# blocks
-Live block explorer for namcoin
+# Namcoin live Blocks
+Live block explorer for namcoin Namibia
