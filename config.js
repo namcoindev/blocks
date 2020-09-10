@@ -1,4 +1,4 @@
-var api = 'https://eland.namcoin.org/';
+var api = 'https://gemsbok.namcoin.org';
 var donationAddress = "";
 var blockTargetInterval = 30;
 var coinUnits = 1000000;
